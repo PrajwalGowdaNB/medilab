@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "medilab"
+    }
+  },
+  "defaultProject": "medilab",
+  "cli": {
+    "analytics": "0a254ce4-f83c-4ecf-a9ce-77cdf00dfe72"
+  }
 }
